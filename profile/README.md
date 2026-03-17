@@ -71,7 +71,7 @@ Think of **brief-mcp** as a note taker while you chat, and a boot loader that fi
 
 As you chat, it builds your project's scaffolding as BRIEF.md files in the background, capturing the decisions, constraints, and open questions that matter to you. When you return to a project after a break, you have a clean structured record to come back to rather than digging through chat histories or trying to piece things together from memory. It starts briefed.
 
-Because BRIEF.md is just a file, any tool can read it. Plan in ChatGPT, code in Cursor, review in Claude — all referencing the same BRIEF.md means rather than hunting through a lengthy document or chat history to find what actually matters, it's already distilled and ready.
+Because BRIEF.md is just a file, any tool can read it. Planning in ChatGPT, coding in Cursor, and reviewing in Claude, all referencing the same BRIEF.md, means that instead of hunting through a lengthy document or chat history to find what actually matters, it’s already distilled and ready.
 
 ```bash
 npx brief-mcp ~/your-projects
@@ -91,7 +91,7 @@ Memory solutions like Graphiti and DevContext automatically capture context from
 
 The core format works for any project in any domain, whether that is a film production, a legal case, a research study, a software product, a music release, an architectural brief, or a business venture. BRIEF.md is built to extend, type guides add domain-specific structure and extensions let communities define the vocabulary and metadata that matters in their field.
 
-The MCP server is the first tool in a growing ecosystem. Integrations with creative software, voice capture, chat-based collaboration, and export tools are all on the roadmap, each built on the same principle: your context, your file, readable by any AI-enabled tool. Context belongs to the project, not the AI tool. AI tools shouldn't own the thinking — the project should.
+The MCP server is the first tool in a growing ecosystem. Integrations with creative software, voice capture, chat-based collaboration, and export tools are all on the roadmap, each built on the same principle: your context, your file, readable by any AI-enabled tool. Context belongs to the project, not the AI tool. AI tools shouldn't own the thinking; the project should.
 
 ---
 
