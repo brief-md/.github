@@ -1,6 +1,6 @@
 # BRIEF.md
 
-An open format for persistent, portable, user-defined project context.
+An open specification for a lightweight, human-readable context file that preserves project intent across time, tools, and collaborators.
 
 ---
 
