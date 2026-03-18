@@ -65,19 +65,13 @@ company/
 
 ---
 
-### The MCP Server
+### The MCP Server (coming soon)
 
 Think of **brief-mcp** as a note taker while you chat, and a boot loader that fires when you start a new session.
 
 As you chat, it builds your project's scaffolding as BRIEF.md files in the background, capturing the decisions, constraints, and open questions that matter to you. When you return to a project after a break, you have a clean structured record to come back to rather than digging through chat histories or trying to piece things together from memory. It starts briefed.
 
 Because BRIEF.md is just a file, any tool can read it. Planning in ChatGPT, coding in Cursor, and reviewing in Claude, all referencing the same BRIEF.md, means that instead of hunting through a lengthy document or chat history to find what actually matters, it’s already distilled and ready.
-
-```bash
-npx brief-mcp ~/your-projects
-```
-
--> **[Get started with brief-mcp](https://github.com/brief-md/brief-mcp)**
 
 ---
 
